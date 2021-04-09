@@ -50,7 +50,7 @@ Gestion des assignments:
 -Ajouter un assignment(l'administrateur, le professeur, et l'étudiant peuvent ajouter un assignment ) 
 
 ## Lien du site :
-https://frontmbdsmadagascar.herokuapp.com/home
+https://frontmbdsmadagascar.herokuapp.com/login
 
 ### compte utilisateur:
 
